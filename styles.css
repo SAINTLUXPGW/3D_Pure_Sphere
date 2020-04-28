@@ -249,137 +249,137 @@ body {
 }
 .spoke-0 .dot,
 .spoke-36 .dot {
-  -webkit-animation: pulsate 4s infinite 0s alternate both;
-          animation: pulsate 4s infinite 0s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0s alternate both;
+          animation: pulsate 2.5s infinite 0s alternate both;
   /* background-color: #ff9955; */
   background-color: #212120;
 }
 .spoke-1 .dot,
 .spoke-35 .dot {
-  -webkit-animation: pulsate 4s infinite 0.05555556s alternate both;
-          animation: pulsate 4s infinite 0.05555556s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.05555556s alternate both;
+          animation: pulsate 2.5s infinite 0.05555556s alternate both;
   /* background-color: #ffb555; */
   background-color: #212120;
 }
 .spoke-2 .dot,
 .spoke-34 .dot {
-  -webkit-animation: pulsate 4s infinite 0.11111111s alternate both;
-          animation: pulsate 4s infinite 0.11111111s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.11111111s alternate both;
+          animation: pulsate 2.5s infinite 0.11111111s alternate both;
   /* background-color: #ffd255; */
   background-color: #212120;
 }
 .spoke-3 .dot,
 .spoke-33 .dot {
-  -webkit-animation: pulsate 4s infinite 0.16666667s alternate both;
-          animation: pulsate 4s infinite 0.16666667s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.16666667s alternate both;
+          animation: pulsate 2.5s infinite 0.16666667s alternate both;
   /* background-color: #ffee55; */
   background-color: #212120;
 }
 .spoke-4 .dot,
 .spoke-32 .dot {
-  -webkit-animation: pulsate 4s infinite 0.22222222s alternate both;
-          animation: pulsate 4s infinite 0.22222222s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.22222222s alternate both;
+          animation: pulsate 2.5s infinite 0.22222222s alternate both;
   /* background-color: #f4ff55; */
   background-color: #212120;
 }
 .spoke-5 .dot,
 .spoke-31 .dot {
-  -webkit-animation: pulsate 4s infinite 0.27777778s alternate both;
-          animation: pulsate 4s infinite 0.27777778s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.27777778s alternate both;
+          animation: pulsate 2.5s infinite 0.27777778s alternate both;
   /* background-color: #d7ff55; */
   background-color: #212120;
 }
 .spoke-6 .dot,
 .spoke-30 .dot {
-  -webkit-animation: pulsate 4s infinite 0.33333333s alternate both;
-          animation: pulsate 4s infinite 0.33333333s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.33333333s alternate both;
+          animation: pulsate 2.5s infinite 0.33333333s alternate both;
   /* background-color: #bbff55; */
   background-color: #212120;
 }
 .spoke-7 .dot,
 .spoke-29 .dot {
-  -webkit-animation: pulsate 4s infinite 0.38888889s alternate both;
-          animation: pulsate 4s infinite 0.38888889s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.38888889s alternate both;
+          animation: pulsate 2.5s infinite 0.38888889s alternate both;
   /* background-color: #9fff55; */
   background-color: #212120;
 
 }
 .spoke-8 .dot,
 .spoke-28 .dot {
-  -webkit-animation: pulsate 4s infinite 0.44444444s alternate both;
-          animation: pulsate 4s infinite 0.44444444s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.44444444s alternate both;
+          animation: pulsate 2.5s infinite 0.44444444s alternate both;
   /* background-color: #82ff55; */
   background-color: #212120;
 }
 .spoke-9 .dot,
 .spoke-27 .dot {
-  -webkit-animation: pulsate 4s infinite 0.5s alternate both;
-          animation: pulsate 4s infinite 0.5s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.5s alternate both;
+          animation: pulsate 2.5s infinite 0.5s alternate both;
   /* background-color: #66ff55; */
   background-color: #212120;
 }
 .spoke-10 .dot,
 .spoke-26 .dot {
-  -webkit-animation: pulsate 4s infinite 0.55555556s alternate both;
-          animation: pulsate 4s infinite 0.55555556s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.55555556s alternate both;
+          animation: pulsate 2.5s infinite 0.55555556s alternate both;
   /* background-color: #55ff60; */
   background-color: #212120;
 }
 .spoke-11 .dot,
 .spoke-25 .dot {
-  -webkit-animation: pulsate 4s infinite 0.61111111s alternate both;
-          animation: pulsate 4s infinite 0.61111111s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.61111111s alternate both;
+          animation: pulsate 2.5s infinite 0.61111111s alternate both;
   /* background-color: #55ff7d; */
   background-color: #212120;
 
 }
 .spoke-12 .dot,
 .spoke-24 .dot {
-  -webkit-animation: pulsate 4s infinite 0.66666667s alternate both;
-          animation: pulsate 4s infinite 0.66666667s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.66666667s alternate both;
+          animation: pulsate 2.5s infinite 0.66666667s alternate both;
   background-color: #55ff99;
   background-color: #212120;
 
 }
 .spoke-13 .dot,
 .spoke-23 .dot {
-  -webkit-animation: pulsate 4s infinite 0.72222222s alternate both;
-          animation: pulsate 4s infinite 0.72222222s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.72222222s alternate both;
+          animation: pulsate 2.5s infinite 0.72222222s alternate both;
   /* background-color: #55ffb5; */
   background-color: #212120;
 }
 .spoke-14 .dot,
 .spoke-22 .dot {
-  -webkit-animation: pulsate 4s infinite 0.77777778s alternate both;
-          animation: pulsate 4s infinite 0.77777778s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.77777778s alternate both;
+          animation: pulsate 2.5s infinite 0.77777778s alternate both;
   /* background-color: #55ffd2; */
   background-color: #212120;
 }
 .spoke-15 .dot,
 .spoke-21 .dot {
-  -webkit-animation: pulsate 4s infinite 0.83333333s alternate both;
-          animation: pulsate 4s infinite 0.83333333s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.83333333s alternate both;
+          animation: pulsate 2.5s infinite 0.83333333s alternate both;
   /* background-color: #55ffee; */
   background-color: #212120;
 }
 .spoke-16 .dot,
 .spoke-20 .dot {
-  -webkit-animation: pulsate 4s infinite 0.88888889s alternate both;
-          animation: pulsate 4s infinite 0.88888889s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.88888889s alternate both;
+          animation: pulsate 2.5s infinite 0.88888889s alternate both;
   /* background-color: #55f4ff; */
   background-color: #212120;
 }
 .spoke-17 .dot,
 .spoke-19 .dot {
-  -webkit-animation: pulsate 4s infinite 0.94444444s alternate both;
-          animation: pulsate 4s infinite 0.94444444s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 0.94444444s alternate both;
+          animation: pulsate 2.5s infinite 0.94444444s alternate both;
   /* background-color: #55d7ff; */
   background-color: #212120;
 }
 .spoke-18 .dot,
 .spoke-18 .dot {
-  -webkit-animation: pulsate 4s infinite 1s alternate both;
-          animation: pulsate 4s infinite 1s alternate both;
+  -webkit-animation: pulsate 2.5s infinite 1s alternate both;
+          animation: pulsate 2.5s infinite 1s alternate both;
   /* background-color: #55bbff; */
   background-color: #212120;
 }
